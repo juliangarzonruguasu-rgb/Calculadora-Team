@@ -14,7 +14,8 @@ public class Calculador {
 	Calculador calc = new Calculador(); 
 	System.out.println("--- INICIO DE LA CALCULADORA ---"); 
 	System.out.println("Suma: " + calc.sumar(10, 5)); 
-	
+	System.out.println("Multiplicación: " + calc.multiplicar(10, 6));
+
 	
 	
 	
