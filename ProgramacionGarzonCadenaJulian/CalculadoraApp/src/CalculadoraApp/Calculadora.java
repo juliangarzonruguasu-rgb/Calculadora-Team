@@ -1,6 +1,6 @@
 package CalculadoraApp;
 
-public class Calculador {
+public class Calculadora {
 	
 	public double multiplicar(double a, double b) { 
 	    return a * b; //version correcta = rama-multiplicacion 
