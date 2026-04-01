@@ -3,7 +3,7 @@ package CalculadoraApp;
 public class Calculador {
 	
 	public double multiplicar(double a, double b) { 
-	    return a * b; 
+	    return a * b; //version correcta = rama-multiplicacion 
 	}
 
 
