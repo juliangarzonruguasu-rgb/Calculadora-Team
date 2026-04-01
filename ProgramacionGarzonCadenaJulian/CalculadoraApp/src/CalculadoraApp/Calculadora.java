@@ -1,6 +1,6 @@
 package CalculadoraApp;
 
-public class Calculadora {
+public class Calculador {
 	
 	public double multiplicar(double a, double b) { 
 	    return a * b; 
